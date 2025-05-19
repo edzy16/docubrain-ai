@@ -48,3 +48,33 @@ docubrain-ai/
 ├── ai-service/          # Hugging Face Space (Python)
 ├── docs/                # Mockups, diagrams, notes
 └── README.md
+```
+
+## 🌐 Demo
+
+  Coming soon: Hosted demo link and short walkthrough video.
+
+## 📚 Real-World Use Cases
+
+   - 📚 Students: Scan notes, summarize chapters, and ask quiz questions
+
+   - 💼 Professionals: Upload meeting screenshots and extract action items
+
+   - 📦 Operations: Scan and extract data from invoices or logistics documents
+
+## 🧠 Future Roadmap
+
+   - 🔐 User login (Supabase Auth)
+
+   - 🧬 Embed-based semantic search
+
+   - 📊 Analytics on uploads and queries
+
+   - 🌍 Multi-language support
+
+   - 🧩 Plugin support (e.g., Notion, Google Drive)
+
+## 👤 Author
+
+Made with ❤️ by Edwin Siby – React / Go developer exploring AI-powered tools.
+Let’s connect on LinkedIn(https://linkedin.com/edwinsiby) or Twitter(https://x.com/itz_edzy).
